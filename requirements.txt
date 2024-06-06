@@ -1,0 +1,4 @@
+easydict==1.13
+paddlenlp==2.6.1
+paddlepaddle==2.6.1
+seqeval==1.2.2
