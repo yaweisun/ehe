@@ -9,7 +9,7 @@
 
 本项目基于PaddlePaddle 2.6.1与PaddleNLP 2.6.1开发。
 
-运行代码时建议使用英伟达显卡，建议根据[PaddlePaddle官网](https://www.paddlepaddle.org.cn/install/quick)信息安装合适的PaddlePaddle版本。
+运行代码时建议使用英伟达显卡进行加速，建议根据[PaddlePaddle官网](https://www.paddlepaddle.org.cn/install/quick)信息安装合适的PaddlePaddle版本。
 
 
 安装PaddlePaddle后，删除`requirements.txt`中的`paddlepaddle==2.6.1`，随后执行如下代码即可：
